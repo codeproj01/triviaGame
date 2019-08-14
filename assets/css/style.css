@@ -1,0 +1,50 @@
+body {
+  background-color: #bdc3c7;
+}
+
+#end-page {
+  display: none;
+}
+
+#logo {
+  border-style: none; 
+  height: auto;
+}
+
+hr {
+ height: 0px; 
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+label {
+  font-size: 16px;
+}
+
+#end-page p {
+  font-size: 20px;
+}
+
+#correct-answers {
+  margin-top: 32px;
+}
+
+#question {
+  margin-top: 32px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+#copyright-small {
+  font-size: 12px;
+}
+
+#timer {
+  margin-top: 20px;
+}
+
+#done-button {
+  margin-top: 35px;
+}
